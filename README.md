@@ -1,4 +1,4 @@
 TestingProject
 ==============
 
-Created testing folder to learn GIT
+Do not know how ti works and how to upload the zip files.
